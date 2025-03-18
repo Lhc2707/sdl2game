@@ -3,8 +3,8 @@
 
 #include <bits/stdc++.h>
 #include <windows.h>
-#include <SDL.h>
-#include <SDL_image.h>
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_image.h>
 
 static SDL_Window* g_widow = NULL;
 static SDL_Renderer* g_screen = NULL;
